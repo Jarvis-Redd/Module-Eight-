@@ -1,5 +1,6 @@
 # Module-Eight-
-#	How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
 Interpreting user needs can be done through the information gathering stage. Thid can be done by asking your team members for feedback or by asking users for any errors or changes they can identify in the code. Once you have the information you can start the process by using the product backlog. 
 
